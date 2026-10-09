@@ -5,13 +5,8 @@
   .glow{animation:fade 4s ease-in-out infinite alternate}.slide{animation:appear 1.2s ease-out both}.sl2{animation:appear 1.4s .2s ease-out both}.dot{animation:blink 2s ease-in-out infinite alternate}
   @keyframes fade{from{opacity:.35}to{opacity:1}}@keyframes appear{from{opacity:0;transform:translateY(15px)}to{opacity:1;transform:translateY(0)}}@keyframes blink{from{opacity:.25}to{opacity:1}}
   @media(prefers-reduced-motion:reduce){*{animation:none!important}}
-  .typed-letter{opacity:0;animation:show-letter .01s steps(1,end) forwards}
-  .cursor{opacity:0;animation:cursor-enter .01s linear forwards, cursor-blink .9s steps(1,end) infinite}
-  @keyframes show-letter{to{opacity:1}}
-  @keyframes cursor-enter{to{opacity:1}}
-  @keyframes cursor-blink{0%,49%{opacity:1}50%,100%{opacity:0}}
-  @media(prefers-reduced-motion:reduce){.typed-letter,.cursor{opacity:1;animation:none}}
 </style>
+<defs><clipPath id="name-reveal-1"><rect x="48" y="147" width="0" height="75"><animate attributeName="width" from="0" to="590" dur="1.45s" begin="0.25s" fill="freeze" /></rect></clipPath><clipPath id="name-reveal-2"><rect x="48" y="218" width="0" height="77"><animate attributeName="width" from="0" to="590" dur="1.30s" begin="1.78s" fill="freeze" /></rect></clipPath></defs>
 <rect width="1200" height="430" rx="18" fill="#081924"/>
 <path d="M0 350 L1200 350 M0 385 L1200 385" stroke="#193847" opacity=".6"/>
 <path d="M38 28 H1160" stroke="#286271"/><circle cx="48" cy="28" r="4" fill="#47d6c4"/>
@@ -19,7 +14,8 @@
 
 <g>
 <text x="56" y="126" class="sans" fill="#46d6c4" font-size="18" letter-spacing="3">ENGENHARIA DE SOFTWARE</text>
-<text x="52" y="212" class="serif" font-size="60"><tspan class="typed-letter" style="animation-delay:0.18s" fill="#f5f6f3">J</tspan><tspan class="typed-letter" style="animation-delay:0.28s" fill="#f5f6f3">o</tspan><tspan class="typed-letter" style="animation-delay:0.38s" fill="#f5f6f3">ã</tspan><tspan class="typed-letter" style="animation-delay:0.48s" fill="#f5f6f3">o</tspan><tspan class="typed-letter" style="animation-delay:0.58s" fill="#f5f6f3"> </tspan><tspan class="typed-letter" style="animation-delay:0.68s" fill="#f5f6f3">L</tspan><tspan class="typed-letter" style="animation-delay:0.78s" fill="#f5f6f3">u</tspan><tspan class="typed-letter" style="animation-delay:0.88s" fill="#f5f6f3">c</tspan><tspan class="typed-letter" style="animation-delay:0.98s" fill="#f5f6f3">a</tspan><tspan class="typed-letter" style="animation-delay:1.08s" fill="#f5f6f3">s</tspan><tspan class="typed-letter" style="animation-delay:1.18s" fill="#f5f6f3"> </tspan><tspan class="typed-letter" style="animation-delay:1.28s" fill="#f5f6f3">P</tspan><tspan class="typed-letter" style="animation-delay:1.38s" fill="#f5f6f3">i</tspan><tspan class="typed-letter" style="animation-delay:1.48s" fill="#f5f6f3">n</tspan><tspan class="typed-letter" style="animation-delay:1.58s" fill="#f5f6f3">h</tspan><tspan class="typed-letter" style="animation-delay:1.68s" fill="#f5f6f3">e</tspan><tspan class="typed-letter" style="animation-delay:1.78s" fill="#f5f6f3">i</tspan><tspan class="typed-letter" style="animation-delay:1.88s" fill="#f5f6f3">r</tspan><tspan class="typed-letter" style="animation-delay:1.98s" fill="#f5f6f3">o</tspan><tspan class="cursor" style="animation-delay:2.13s" fill="#4dd1c4">|</tspan></text>
+<text x="52" y="202" class="serif" font-size="65" fill="#f5f6f3" clip-path="url(#name-reveal-1)">João Lucas</text>
+<text x="52" y="272" class="serif" font-size="65" fill="#f5f6f3" clip-path="url(#name-reveal-2)">Pinheiro<tspan fill="#4dd1c4">.</tspan></text>
 </g>
 <g class="sl2"><text x="56" y="319" class="sans" fill="#b8cbd1" font-size="20">Engenheiro da Computação  /  Backend &amp; Full Stack</text></g>
 <g opacity=".95"><path d="M776 116 L868 116 L918 168 L1013 168 M868 116 L894 256 L1058 256 M918 168 L969 343 L1085 343" class="line"/><path d="M786 116 L869 116" class="line" stroke="#56dfce"/><circle cx="775" cy="116" r="6" class="dot" fill="#52e0cd"/><circle cx="869" cy="116" r="5" fill="#3c7782"/><circle cx="918" cy="168" r="8" class="node"/><circle cx="1013" cy="168" r="6" fill="#4dc5c2" class="glow"/><circle cx="894" cy="256" r="7" class="node"/><circle cx="1058" cy="256" r="8" class="node"/><circle cx="969" cy="343" r="7" class="node"/><circle cx="1085" cy="343" r="5" fill="#4dc5c2" class="glow"/>
