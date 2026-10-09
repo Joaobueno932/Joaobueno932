@@ -1,85 +1,56 @@
-<!-- Perfil GitHub | João Lucas Pinheiro -->
 <div align="center">
 
-# João Lucas Pinheiro
-
-**Engenheiro da Computação · Desenvolvedor Backend & Full Stack**
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1200&color=0891B2&center=true&vCenter=true&repeat=true&width=760&height=52&lines=Engenharia+de+software+com+prop%C3%B3sito;Backend+%7C+Arquitetura+%7C+Integra%C3%A7%C3%B5es;Automa%C3%A7%C3%A3o+%7C+Dados+%7C+Intelig%C3%AAncia+Artificial;Transformando+desafios+em+solu%C3%A7%C3%B5es+reais" alt="Áreas de atuação em destaque" />
-
-[![Atividade no GitHub](https://img.shields.io/badge/Atividade_no_GitHub-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/Joaobueno932?tab=overview)
-[![Repositórios](https://img.shields.io/badge/Reposit%C3%B3rios-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/Joaobueno932?tab=repositories)
+<img src="./assets/hero.svg" width="100%" alt="João Lucas Pinheiro — Engenharia de Software" />
 
 </div>
 
----
+### Software que conecta tecnologia, processos e resultados.
 
-## Sobre mim
+Sou **João Lucas Pinheiro**, engenheiro da computação e desenvolvedor de software em **Campo Grande, MS**. Atuo na construção de aplicações backend e full stack, com experiência em APIs, integrações, automação de processos e soluções corporativas.
 
-Sou **João Lucas Pinheiro**, engenheiro da computação e desenvolvedor de software em **Campo Grande, MS**. Minha atuação é voltada à construção de soluções **backend e full stack**, com atenção à arquitetura, segurança, integrações e qualidade do código.
-
-Tenho experiência com sistemas corporativos, automação de processos e aplicações que conectam tecnologia a necessidades reais de negócio. Entre as áreas com as quais trabalho estão **gestão, dados, energia e sustentabilidade**.
-
-Gosto de compreender o problema antes de escolher a tecnologia. Busco desenvolver sistemas **confiáveis, escaláveis e fáceis de manter**, com soluções práticas que façam sentido tanto para quem utiliza quanto para quem evolui o produto.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Atuação</strong><br><br>
-      Desenvolvimento de APIs e serviços<br>
-      Aplicações web e sistemas corporativos<br>
-      Arquitetura e integração de sistemas<br>
-      Automação de processos
-    </td>
-    <td width="50%" valign="top">
-      <strong>Interesses e evolução</strong><br><br>
-      Inteligência artificial aplicada<br>
-      Engenharia e análise de dados<br>
-      Arquiteturas distribuídas e cloud<br>
-      Eficiência e produtividade em software
-    </td>
-  </tr>
-</table>
+Meu trabalho envolve transformar necessidades de negócio em sistemas sustentáveis e seguros, do planejamento à entrega. Tenho especial interesse em **inteligência artificial, engenharia de dados, eficiência energética e sustentabilidade**.
 
 ---
 
-## Tecnologias e ferramentas
+### Especialidades
+
+| Engenharia de aplicações | Plataformas e integração | Dados e inovação |
+| :--- | :--- | :--- |
+| Backend e APIs | Arquitetura de sistemas | Inteligência artificial aplicada |
+| Full stack | Integrações e automação | Engenharia e análise de dados |
+| Qualidade e segurança | Sistemas corporativos | Energia e sustentabilidade |
+
+### Ecossistema tecnológico
+
+**Linguagens e frameworks**
+
+<p><img src="https://skillicons.dev/icons?i=java,spring,python,ts,js,nodejs,react,nextjs,vue,fastapi&theme=dark&perline=10" alt="Java, Spring Boot, Python, TypeScript, JavaScript, Node.js, React, Next.js, Vue e FastAPI" /></p>
+
+**Dados, serviços e infraestrutura**
+
+<p><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,git,github,linux,nginx&theme=dark&perline=9" alt="PostgreSQL, MySQL, MongoDB, Redis, Docker, Git, GitHub, Linux e Nginx" /></p>
+
+`APIs REST` · `Spring Security` · `Mensageria` · `RabbitMQ` · `MinIO` · `CI/CD` · `SQL` · `Arquitetura de software`
+
+---
+
+### Atividade de desenvolvimento
+
+<img src="./assets/metricas.svg" width="100%" alt="3.314 contribuições informadas, 426 de sequência atual informada, 673 de maior sequência informada" />
+
+<sub>Os valores acima foram fornecidos pelo autor e incluem sua atividade profissional declarada. Não representam métricas auditadas ou confirmadas pela API pública do GitHub. O calendário nativo da plataforma pode apresentar totais diferentes.</sub>
+
+### Histórico visível no GitHub
 
 <div align="center">
-
-**Backend e linguagens**
-
-<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,ts,js,nodejs,go,cs&theme=dark&perline=9" alt="Java, Spring, Python, FastAPI, TypeScript, JavaScript, Node.js, Go e C Sharp" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind&theme=dark&perline=6" alt="React, Next.js, Vue, HTML, CSS e Tailwind" />
-
-**Dados, infraestrutura e ferramentas**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,git,github,linux,nginx&theme=dark&perline=9" alt="PostgreSQL, MySQL, MongoDB, Redis, Docker, Git, GitHub, Linux e Nginx" />
-
-`APIs REST` · `Spring Security` · `JWT / RBAC` · `RabbitMQ` · `Kafka` · `MinIO` · `CI/CD` · `SQL`
-
-</div>
-
----
-
-## Atividade e contribuições
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Joaobueno932&bg_color=0D1117&color=CBD5E1&line=22D3EE&point=FFFFFF&area=true&area_color=0891B2&hide_border=true" alt="Gráfico de atividade do GitHub" />
-
-**Meu histórico de contribuições em movimento**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joaobueno932/Joaobueno932/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joaobueno932/Joaobueno932/output/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/Joaobueno932/Joaobueno932/output/github-contribution-grid-snake.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/Joaobueno932/Joaobueno932/output/github-contribution-grid-snake.svg" alt="Animação das contribuições visíveis no GitHub" />
 </picture>
 
-<sub>A animação aparece depois da primeira execução bem-sucedida do workflow incluído no pacote.</sub>
+<sub>O histórico animado depende da execução do workflow do GitHub Actions e pode não abranger atividades privadas.</sub>
 
 </div>
 
@@ -87,8 +58,6 @@ Gosto de compreender o problema antes de escolher a tecnologia. Busco desenvolve
 
 <div align="center">
 
-**Tecnologia bem construída começa com um problema bem compreendido.**
-
-[![Meu GitHub](https://img.shields.io/badge/Ver_meu_GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joaobueno932)
+<sub>Engenharia de software com foco em soluções úteis, confiáveis e preparadas para evoluir.</sub>
 
 </div>
