@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" width="1200" height="250" role="img" aria-label="Indicadores informados pelo autor: 3.314 contribuições, sequência atual 426, maior sequência 673">
-<style>.t{font-family:Arial,Helvetica,sans-serif}.n{font-family:Georgia,'Times New Roman',serif}.bar{animation:expand 1.4s ease-out both;transform-origin:left}@keyframes expand{from{transform:scaleX(0)}to{transform:scaleX(1)}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
-<rect width="1200" height="250" rx="16" fill="#0a1b27"/><rect x="1" y="1" width="1198" height="248" rx="15" stroke="#284652" fill="none"/>
-<text x="40" y="39" class="t" font-size="16" letter-spacing="2" fill="#7ea4b0">ATIVIDADE · VISÃO CONSOLIDADA</text>
-<line x1="405" y1="75" x2="405" y2="202" stroke="#284652"/><line x1="805" y1="75" x2="805" y2="202" stroke="#284652"/>
-<text x="40" y="131" class="n" font-size="64" fill="#f0f5f5">3.314</text><text x="42" y="165" class="t" font-size="18" fill="#bdd1d4">Contribuições informadas</text><rect x="42" y="186" width="284" height="4" rx="2" fill="#173847"/><rect class="bar" x="42" y="186" width="284" height="4" rx="2" fill="#58d4c8"/>
-<text x="446" y="131" class="n" font-size="64" fill="#f0f5f5">426</text><text x="449" y="165" class="t" font-size="18" fill="#bdd1d4">Sequência atual informada</text><rect x="449" y="186" width="269" height="4" rx="2" fill="#173847"/><rect class="bar" x="449" y="186" width="171" height="4" rx="2" fill="#58d4c8"/>
-<text x="849" y="131" class="n" font-size="64" fill="#f0f5f5">673</text><text x="851" y="165" class="t" font-size="18" fill="#bdd1d4">Maior sequência informada</text><rect x="851" y="186" width="269" height="4" rx="2" fill="#173847"/><rect class="bar" x="851" y="186" width="269" height="4" rx="2" fill="#58d4c8"/>
-</svg>
